@@ -1,0 +1,17 @@
+release/easy.o
+release/hard.o
+release/help.o
+release/highscore.o
+release/main.o
+release/mainwindow.o
+release/normal.o
+release/play.o
+release/practice.o
+release/moc_easy.o
+release/moc_hard.o
+release/moc_help.o
+release/moc_highscore.o
+release/moc_mainwindow.o
+release/moc_normal.o
+release/moc_play.o
+release/moc_practice.o

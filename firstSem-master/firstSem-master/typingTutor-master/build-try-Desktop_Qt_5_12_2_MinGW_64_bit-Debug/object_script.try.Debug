@@ -1,0 +1,17 @@
+debug/easy.o
+debug/hard.o
+debug/help.o
+debug/highscore.o
+debug/main.o
+debug/mainwindow.o
+debug/normal.o
+debug/play.o
+debug/practice.o
+debug/moc_easy.o
+debug/moc_hard.o
+debug/moc_help.o
+debug/moc_highscore.o
+debug/moc_mainwindow.o
+debug/moc_normal.o
+debug/moc_play.o
+debug/moc_practice.o
